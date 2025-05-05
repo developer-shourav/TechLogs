@@ -11,9 +11,9 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "NexaBlog",
+  title: "TechLogs",
   description:
-    "Welcome to NexaBlog – where innovation meets imagination in the dynamic realm of technology, offering a thrilling journey through the latest trends and groundbreaking discoveries in the world of tech!",
+    "Welcome to TechLogs - where innovation meets imagination in the dynamic realm of technology, offering a thrilling journey through the latest trends and groundbreaking discoveries in the world of tech!",
 };
 
 export default function RootLayout({

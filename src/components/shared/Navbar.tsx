@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-2">
           <Link href="/" className="flex items-center gap-1">
             <Image src={brandLogo} width={30} height={30} alt="brand logo" />
-            <span className="text-xl font-bold">NexaBlog</span>
+            <span className="text-xl font-bold">TechLogs</span>
           </Link>
         </div>
       </div>

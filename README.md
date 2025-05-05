@@ -1,4 +1,4 @@
-# NexaBlog-Starter-Pack
+# TechLogs Starter-Pack
 
 ## Installation:
 

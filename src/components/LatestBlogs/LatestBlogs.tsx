@@ -7,7 +7,7 @@ const LatestBlogs = ({ blogs }: { blogs: Blog[] }) => {
   return (
     <div className="w-[90%] mx-auto">
       <h1 className="text-3xl text-center my-5 font-bold">
-        Latest Blogs From <span className="text-teal-600">NexaBlog</span>
+        Latest Blogs From <span className="text-teal-600">TechLogs</span>
       </h1>
       <p className="text-center text-gray-400 w-2/5 mx-auto">
         <i>

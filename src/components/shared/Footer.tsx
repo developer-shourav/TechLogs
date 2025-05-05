@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="text-center">
         <div className="flex justify-center items-center">
           <Image src={brandLogo} width={50} height={50} alt="brand logo" />
-          <p className="text-3xl font-bold ml-3">NexaBlog</p>
+          <p className="text-3xl font-bold ml-3">TechLogs</p>
         </div>
         <p className="w-2/4 mt-4 mx-auto text-gray-400">
           <i>
