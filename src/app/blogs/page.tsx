@@ -12,8 +12,6 @@ const BlogPage = async () => {
     cache: "no-store",
   });
   const blogs = await res.json();
-
-  console.log(blogs);
   return (
     <div className="w-[90%] mx-auto">
       <h1 className="text-3xl text-center my-5 font-bold">
